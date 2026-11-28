@@ -1,6 +1,7 @@
 
 # Design and Implementation of a Multidocument Retrieval Agent Using LlamaIndex
-
+# Name: Rougith D
+# Reg No : 212225220087
 ## AIM:
 To design and implement a multidocument retrieval agent using LlamaIndex to extract and synthesize information from multiple research articles, and to evaluate its performance by testing it with diverse queries, analyzing its ability to deliver concise, relevant, and accurate responses.
 
